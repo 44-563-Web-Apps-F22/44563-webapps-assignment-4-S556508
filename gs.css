@@ -22,3 +22,40 @@
     font-size: 16px;
     color:black;
     font-style:inherit;}
+    h1{
+        color: rgb(40, 51, 210);
+    }
+    
+    h3{
+        color:black;
+        font-style: italic;
+    }
+    
+    h6{
+        color:black;
+        font-size: 15px;
+    }
+    
+    table{
+        border: 3px solid brown;
+        text-align: left;
+        padding: 20px;
+        margin: 20px;
+        color: cadetblue;
+    
+    }
+    
+    th{
+        border: 3px solid rgb(114, 10, 64);
+        text-align: left;
+        color:black ;
+    
+    }
+    
+    td{
+    
+        border: 3px solid black;
+        text-align: left;
+        color:black ;
+    }
+    
